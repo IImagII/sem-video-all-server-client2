@@ -1,5 +1,5 @@
 ## Видео сервис как Youtube
-![Image alt](https://github.com/IImagII/FullStack-Blog-Prodaction/blob/master/blog-mern.jpg)
+![Image alt](https://github.com/IImagII/sem-video-all-server-client2/blob/master/sem-video.jpg)
 ### Использованный стек технологий:
 - NextJs
 - Redux-toolkit
